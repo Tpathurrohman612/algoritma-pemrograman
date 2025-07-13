@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the Practical Course Project ‘Programming Algorithm’ for the 2024/2025 academic year. Indonesian Open University. Bandung Region.
 
 ## Folder Structure
 
